@@ -91,7 +91,7 @@ function Section() {
                         <Form.Control
                           className="formfont"
                           type="text"
-                          placeholder="Enter First Name"
+                          placeholder="Enter First Names"
                         />
                       </Form.Group>
                       <Form.Group
@@ -102,7 +102,7 @@ function Section() {
                         <Form.Control
                           className="formfont"
                           type="text"
-                          placeholder="Enter Last Name"
+                          placeholder="Enter Last Names"
                         />
                       </Form.Group>
                       <Form.Group
